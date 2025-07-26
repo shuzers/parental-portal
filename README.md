@@ -74,11 +74,14 @@ We envision a future where blockchain technology serves as a foundation for safe
 
 ## Contract Address
 
-**Testnet Contract Address**: `ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM.portal`
+**Testnet Contract Address**: `ST1RT23XAS4TWJJ2GEXDT7C7VBMKXC5PN59RGWCH0.portal`
 
-**Mainnet Contract Address**: `SP000000000000000000002Q6VF78.portal`
+<img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/f898493e-5c10-4c19-bea0-d64c150ef2c4" />
 
-*Note: These are example addresses. The actual contract address will be generated upon deployment to the respective networks.*
+
+
+
+
 
 ## Getting Started
 
