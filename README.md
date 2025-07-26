@@ -1,5 +1,86 @@
 # Parental Portal - Blockchain Wallet Monitoring System
 
+# 🧿 Parental View Portal
+
+Parental View Portal is a blockchain-based decentralized application (dApp) designed to let parents monitor child activity on the blockchain through read-only smart contract access — without having the ability to modify anything.
+
+## 🛠 Features
+
+- 🔐 Read-only access to child smart contract activity
+- 📊 Simple UI for monitoring and selecting children accounts
+- ⚙️ Integrated with deployed Clarity smart contract
+- 🧾 Privacy-focused: no write permissions or private data stored
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (v14 or above recommended)
+- [npm](https://www.npmjs.com/)
+
+### Run the App
+
+1. Clone the repository and navigate to the frontend directory:
+
+   ```bash
+   git clone <your-repo-url>
+   cd parental-view-frontend
+
+# Installation & Setup Guide
+
+## 🚀 Getting Started
+
+### Install dependencies (only once):
+```bash
+npm install
+```
+
+### Start the development server:
+```bash
+npm start
+```
+
+The app will automatically open in your default browser at:
+```arduino
+http://localhost:3000
+```
+
+## 📄 Smart Contract
+
+The Clarity smart contract is already deployed on the Stacks blockchain at the following address:
+
+```
+ST1RT23XAS4TWJJ2GEXDT7C7VBMKXC5PN59RGWCH0.portal
+```
+
+## 🔧 Configuration
+
+Make sure your `src/utils/contractCalls.js` file has the correct contract address:
+
+```javascript
+const CONTRACT_ADDRESS = 'ST1RT23XAS4TWJJ2GEXDT7C7VBMKXC5PN59RGWCH0';
+const CONTRACT_NAME = 'portal';
+```
+
+## 📱 Usage
+
+1. **Connect your Stacks wallet** (Hiro Wallet recommended)
+2. **Switch to testnet** in your wallet settings
+3. **Get testnet STX** from the [faucet](https://explorer.stacks.co/sandbox/faucet) if needed
+4. **Register child wallets** and start monitoring!
+
+## 🔍 Troubleshooting
+
+If you encounter any issues:
+- Ensure you're connected to **testnet**
+- Check you have **testnet STX** for transaction fees
+- Verify the **contract address** is correctly configured
+- Make sure your **wallet is connected**
+
+Happy monitoring! 🎉
+
 ## Project Description
 
 The Parental Portal is a innovative blockchain-based smart contract built on the Stacks blockchain using Clarity language. This system enables parents to monitor and track their children's cryptocurrency wallet activities in a transparent, secure, and decentralized manner. The contract provides a comprehensive framework for parental oversight of digital asset management, ensuring responsible financial education and safety for young crypto users.
