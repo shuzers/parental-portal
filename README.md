@@ -81,6 +81,18 @@ If you encounter any issues:
 
 Happy monitoring! 🎉
 
+
+Preview
+<img width="1914" height="915" alt="{2E54387D-27D4-4E99-9994-628CAF4B577D}" src="https://github.com/user-attachments/assets/81a011ba-b02e-4748-be47-f6320011dc3d" />
+<img width="1920" height="910" alt="{07F46330-73C6-4389-9574-576C06466887}" src="https://github.com/user-attachments/assets/8e4520af-e68d-4772-8d60-ad8f604c9c2a" />
+<img width="1059" height="382" alt="{D9365E42-F5AC-4809-BD3F-E13F67840B34}" src="https://github.com/user-attachments/assets/83a07476-c6c5-4ecd-9418-b358de7f91a2" />
+<img width="1918" height="873" alt="{479F8CB6-056A-45AA-A158-4EC495932C2F}" src="https://github.com/user-attachments/assets/3d4c0915-4e56-462f-afff-7b9d89b4ae13" />
+<img width="1056" height="624" alt="{B4BFC824-6C91-4AE8-B784-72875626F399}" src="https://github.com/user-attachments/assets/9d6197e3-05c1-432d-a7f6-98faa25ae144" />
+
+
+
+
+
 ## Project Description
 
 The Parental Portal is a innovative blockchain-based smart contract built on the Stacks blockchain using Clarity language. This system enables parents to monitor and track their children's cryptocurrency wallet activities in a transparent, secure, and decentralized manner. The contract provides a comprehensive framework for parental oversight of digital asset management, ensuring responsible financial education and safety for young crypto users.
